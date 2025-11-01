@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center" style="background-color:#0d1117; padding:40px; border-radius:12px;">
+  <style>
+    @keyframes typing {
+      from { width: 0 }
+      to { width: 100% }
+    }
 
-<!--
-**Nandshah1610/Nandshah1610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    @keyframes blink {
+      50% { border-color: transparent }
+    }
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    .logo {
+      color: #00bfff;
+      font-family: 'Poppins', sans-serif;
+      font-size: 2.2em;
+      border-right: 3px solid white;
+      white-space: nowrap;
+      overflow: hidden;
+      width: 0;
+      animation: typing 3.5s steps(30, end) forwards, blink 0.8s infinite;
+    }
+  </style>
