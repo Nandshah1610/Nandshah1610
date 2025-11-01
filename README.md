@@ -1,16 +1,24 @@
-# Hi there 👋
+<!-- Centered Neon Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&pause=1000&color=00FFF9&center=true&vCenter=true&width=700&lines=👋+I'm+nand+shah;💻+CSE+Undergrad+%7C+Tech+Dreamer;🚀+Let's+Code+Something+Epic!" alt="Typing Animation" />
+</p>
 
-<!--
-**Nandshah1610/Nandshah1610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Glowing Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="90%">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧬 About Me  
+
+<p align="center">
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="200px">
+</p>
+
+```yaml
+👨‍💻 Name: Nand Shah
+🎓 Course: B.Tech in Computer Science (1st Year)
+💡 Interests: AI, Web Dev, Cybersecurity, and Creating Awesome Stuff
+🔥 Motto: Code. Create. Conquer.
+🎯 Goal: To craft futuristic projects that inspire!
